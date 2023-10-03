@@ -6,6 +6,7 @@
     "IsSampleData": false,
     "IsWritable": true,
     "LogicalName": "cr6e6_contact",
+    "MaxGetRowsCount": 500,
     "Name": "Contacts",
     "NativeCDSDataSourceInfoNameMapping": {
       "_ownerid_value": "Owner",
@@ -36,6 +37,20 @@
     },
     "PreferredName": "Contacts",
     "Type": "NativeCDSDataSourceInfo"
+  },
+  {
+    "DisplayName": "Contacts (Views)",
+    "Name": "_cr6e6_contact_views",
+    "RelatedEntityName": "Contacts",
+    "TrimmedViewName": true,
+    "Type": "ViewInfo",
+    "ViewInfoNameMapping": {
+      "71bc6372-e0d7-4937-9bc0-be1931695aa6": "Contact Lookup View",
+      "b8f58a11-c838-4990-976f-7ddc930c0ec6": "Inactive Contacts",
+      "d3cf9560-32c3-4c08-9154-000cee78dd08": "Contact Associated View",
+      "df5dc25d-5b7b-49f4-9ea0-c5adf100b30f": "Contact Advanced Find View",
+      "f8c49529-20eb-4722-ae51-7e679c3e5b8f": "Active Contacts"
+    }
   },
   {
     "DisplayName": "Status (Contacts)",

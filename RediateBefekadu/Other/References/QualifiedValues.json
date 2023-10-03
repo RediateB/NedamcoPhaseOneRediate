@@ -3,7 +3,9 @@
     {
       "Kind": "default.cds_cr6e6_contact_forms",
       "Namespace": "Contacts (Forms)",
-      "Values": {}
+      "Values": {
+        "Information": "34cbce7a-9b01-4803-b6be-ed6626971edf"
+      }
     }
   ]
 }

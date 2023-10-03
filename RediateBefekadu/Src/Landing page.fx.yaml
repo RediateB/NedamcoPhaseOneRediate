@@ -1,0 +1,23 @@
+"'Landing page' As screen":
+    BackgroundImage: =
+
+    Image2 As image:
+        Height: =733
+        Image: ='yasamine-june-GVh5yGQwiA8-unsplash'
+        ImagePosition: =ImagePosition.Fill
+        RadiusBottomLeft: =30
+        RadiusBottomRight: =30
+        RadiusTopLeft: =30
+        RadiusTopRight: =30
+        Width: =640
+        ZIndex: =1
+
+    Button1 As button:
+        Height: =70
+        Size: =24
+        Text: ="Button"
+        Width: =280
+        X: =180
+        Y: =998
+        ZIndex: =2
+
